@@ -28,5 +28,5 @@ Em uma universidade, durante um semeste, cada aluno realiza 3 avaliações. Ao f
 
 	Média de A1: 6. Realizar A2!
 	Nota de A2: 5
-	Cascao REPROVADO com média: 6.5
+	Cascao REPROVADO com média: 5.5
 
