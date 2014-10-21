@@ -7,6 +7,7 @@ Este são os exercícios que resolvo para o curso gravado de Ruby da Code Squad:
 * [3 - Número Maiorzão](./3_numero_maiorzao.md)
 * [4 - Média Final](./4_media_final.md)
 * [5 - IMC](./5_imc.md)
+* [X - Cadastro e Relatório](./X_cadastro_e_relatorio.md)
 
 
 ### Exercícios Extras:
